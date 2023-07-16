@@ -1,9 +1,7 @@
 <h1 align="center">Hi 👋, I'm John Patrick Prieto</h1>
 <h3 align="center">A full-stack developer specializing in Mobile Development specifically in Flutter</h3>
 
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=oppatrickk&label=Profile%20views&color=0e75b6&style=flat" alt="oppatrickk" /> </p>
-
-<p align="left"> <a href="https://twitter.com/oppatrickk" target="blank"><img src="https://img.shields.io/twitter/follow/oppatrickk?logo=twitter&style=for-the-badge" alt="oppatrickk" /></a> </p>
+<p align="center"> <img src="https://komarev.com/ghpvc/?username=oppatrickk&label=Profile%20views&color=0e75b6&style=flat" alt="oppatrickk" /> <a href="https://twitter.com/oppatrickk" target="blank"><img src="https://img.shields.io/twitter/follow/oppatrickk?logo=twitter&style=for-the-badge" alt="oppatrickk" /></a></p>
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
